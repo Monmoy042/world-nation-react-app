@@ -1,0 +1,9 @@
+.main-country {
+  border: 1px solid cadetblue;
+  margin-bottom: 5px;
+}
+
+.flagStyle {
+  height: 75px;
+  width: 80px;
+}
